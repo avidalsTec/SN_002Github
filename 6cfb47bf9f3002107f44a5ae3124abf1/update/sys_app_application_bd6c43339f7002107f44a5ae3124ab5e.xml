@@ -4,7 +4,7 @@
         <category display_value="">Custom Applications</category>
         <description/>
         <device_type>browser</device_type>
-        <hint/>
+        <hint>hola</hint>
         <name/>
         <order/>
         <roles>change_manager</roles>
