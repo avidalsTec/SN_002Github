@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="">Custom Applications</category>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name/>
+        <order/>
+        <roles>change_manager</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-14 17:45:03</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>bd6c43339f7002107f44a5ae3124ab5e</sys_id>
+        <sys_name>App_paraGithub</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="App_paraGithub" source="6cfb47bf9f3002107f44a5ae3124abf1">6cfb47bf9f3002107f44a5ae3124abf1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="App_paraGithub">6cfb47bf9f3002107f44a5ae3124abf1</sys_scope>
+        <sys_update_name>sys_app_application_bd6c43339f7002107f44a5ae3124ab5e</sys_update_name>
+        <title>App_paraGithub</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>
